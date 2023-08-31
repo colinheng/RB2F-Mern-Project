@@ -15,7 +15,9 @@ MongoDB
 
 ### Installing
 
-none for now
+.env must contain the following variables
+
+NODE_ENV PORT MONGO_URI JWT_SECRET
 
 ### Executing program
 
